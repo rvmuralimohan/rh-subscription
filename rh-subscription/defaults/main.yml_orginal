@@ -1,0 +1,5 @@
+---
+# defaults file for rh-subscription
+rh_username: support-tools
+rh_password: support-tools
+rh_poolid: 11449530
