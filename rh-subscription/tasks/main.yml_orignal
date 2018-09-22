@@ -1,8 +1,0 @@
----
-# tasks file for rh-subscription
-  - name: register the server
-    command: subscription-manager register --username "{{ rh_username }}" --password "{{ rh_password }}" --force
-  - name: attach the pool
-    command: subscription-manager attach --pool="{{ rh_poolid }}"
-    register: register_result
-

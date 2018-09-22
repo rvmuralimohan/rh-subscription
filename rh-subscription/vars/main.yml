@@ -1,7 +1,0 @@
----
-# vars file for rh-subscription
-  vars:
-    rh_username: 
-    rh_password:
-    rh_poolid: 
-
