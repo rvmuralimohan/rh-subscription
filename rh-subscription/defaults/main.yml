@@ -1,0 +1,5 @@
+---
+# defaults file for rh-subscription
+rhsm_username: support-tools
+rhsm_password: support-tools
+rhsm_poolid: 11449530
